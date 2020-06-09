@@ -1,0 +1,1 @@
+srun --partition=iist-all --nodes=1 --ntasks=12 --pty /bin/bash -l
